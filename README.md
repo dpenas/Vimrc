@@ -1,4 +1,4 @@
-bashrc
+vimrc
 ======
 
-My bashrc
+My vimrc
